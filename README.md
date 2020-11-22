@@ -8,7 +8,7 @@ cvlib
 tensorflow
 numpy
 
-The datasets that could be used can be found here:
+The datasets that could be used for this task can be found here:
 https://www.jpjodoin.com/urbantracker/dataset.html
 
-Prefereably run this code on video taken at 30fps (performs poorly on lower fps).
+It is prefereable to run this code on video taken at 30fps (performs poorly on lower fps).
