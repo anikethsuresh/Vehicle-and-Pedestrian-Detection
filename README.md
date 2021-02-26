@@ -11,4 +11,4 @@ numpy
 The datasets that could be used for this task can be found here:
 https://www.jpjodoin.com/urbantracker/dataset.html
 
-It is prefereable to run this code on video taken at 30fps (performs poorly on lower fps).
+It is preferable to run this code on video taken at 30fps (performs poorly on lower fps).
